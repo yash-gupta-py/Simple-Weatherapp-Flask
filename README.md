@@ -1,1 +1,1 @@
-# python-practice
+# Simple-Weatherapp-Flask
